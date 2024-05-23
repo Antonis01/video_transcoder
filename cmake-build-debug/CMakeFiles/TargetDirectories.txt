@@ -1,0 +1,3 @@
+/home/antonis/Documents/GitHub/video_transcoder/cmake-build-debug/CMakeFiles/video_transcoder.dir
+/home/antonis/Documents/GitHub/video_transcoder/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/antonis/Documents/GitHub/video_transcoder/cmake-build-debug/CMakeFiles/rebuild_cache.dir
