@@ -1,4 +1,0 @@
-# ninja log v5
-46	79	1716505243798121291	video_transcoder	8569350ead2625c4
-1	45	1716505243764788839	CMakeFiles/video_transcoder.dir/main.c.o	681468d5c0ef9e34
-1	101	1716505278137213682	CMakeFiles/video_transcoder.dir/transcoder.c.o	8671662dbb701276
