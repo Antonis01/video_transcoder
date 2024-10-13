@@ -1,6 +1,6 @@
 #include <stdio.h>
+#include "transcoder_headers.h"
 
-int main(void) {
-    printf("Hello, World!\n");
-    return 0;
+void main() {
+    menu();
 }
